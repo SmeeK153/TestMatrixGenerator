@@ -1,1 +1,3 @@
 # TestMatrixGenerator
+
+Author: Eric Freeman
